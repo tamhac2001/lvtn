@@ -1,0 +1,114 @@
+[
+  {
+    "id": "638414cdc507a90988537212",
+    "code": "Ri6",
+    "name": "Ri 6",
+    "origin": "Malaysia",
+    "characteristics": {
+      "trunk": "string",
+      "branch": "string",
+      "leaf": "string",
+      "flower": "string",
+      "fruit": "Trái sầu Ri6 có hình trục, đáy trái hẹp, vỏ có màu vàng xanh, khá mỏng.",
+      "seed": "Hạt của nó khá bé và dẹt",
+      "flavor": "string"
+    },
+    "plantingProcedure": {
+      "climate": "Thích hợp với điều kiện khí hậu nóng ẩm mưa nhiều",
+      "plantingArea": "Vùng đất phù sa ở khu vực đồng bằng Sông Cửu Long.",
+      "growingTime": "Cho ra hoa đậu quả sau 3 năm trồng",
+      "lifeSpan": "Tuổi thọ trung bình từ 20 đến 30 năm"
+    },
+    "productivity": "string",
+    "price": "Dao động từ 135.000-150.000 đồng/kg",
+    "imageUrls": [
+      "string"
+    ],
+    "createdAt": "2022-11-28T01:54:21.827Z",
+    "updatedAt": "2022-11-28T01:54:21.827Z"
+  },
+  {
+    "id": "63841b175d3da3cdaec79c88",
+    "code": "D197",
+    "name": "Musang King",
+    "origin": "Malaysia",
+    "characteristics": {
+      "trunk": "string",
+      "branch": "string",
+      "leaf": "string",
+      "flower": "string",
+      "fruit": "Sầu riêng Musang King trái có hình bầu dục, không quá lớn, khối lượng quả từ 2 – 4kg. Vỏ trái có màu xanh đậm và có gai rất lớn; khoảng cách giữa các gai cũng khá xa nhau. Cuống trái không có gai và khá phẳng, ở giữa cuống trái và thân trái có vết rãnh, đây là đặc trưng của giống sầu riêng này. Trái sầu riêng tự rụng",
+      "seed": "Múi sầu riêng Musang King to, nhiều cơm, màu vàng đậm (hoặc đỏ), hạt dẹp",
+      "flavor": "Thịt cơm mịn dẻo và có mùi thơm đậm chất đặc trưng của loại trái cây này. Vị không ngọt sắc; vừa phải và dễ gây nghiện, xứng đáng được mệnh danh là “vua của các loại sầu riêng”"
+    },
+    "plantingProcedure": {
+      "climate": "Cây thường sẽ phát triển và đặt năng suất tốt nhất tại khu vực có nhiệt độ từ 30 – 35 độ C, có nhu cầu về ánh sáng cao",
+      "plantingArea": "Sầu riêng Musang King hiện nay đã được trồng tại một số vùng ở nước ta như Tây Nguyên, Đồng bằng sông Cửu Long. Đất trồng cây sầu riêng phải đảm bảo không bị nhiễm mặn, không ngập úng, chất đất giàu mùn, tơi xốp, độ pH khoảng từ 5 – 6, tầng canh tác tối thiểu 1m",
+      "growingTime": "Thu hoạch sau thời gian là từ 3 – 5 năm",
+      "lifeSpan": "Tuổi thọ trung bình từ 20 đến 30 năm"
+    },
+    "productivity": "string",
+    "price": "Dao động từ 500.000-800.000 đồng/kg",
+    "imageUrls": [
+      "string"
+    ],
+    "createdAt": "2022-11-28T02:21:11.408Z",
+    "updatedAt": "2022-11-28T02:21:11.408Z"
+  },
+  {
+    "id": "638420a05d3da3cdaec79c8a",
+    "code": "D159",
+    "name": "Monthong (Dona)",
+    "origin": "Thái",
+    "characteristics": {
+      "trunk": "Chiều cao trung bình của cây ở khoảng 15-20m. Nếu không tỉa ngọn thì cây càng mọc cao, có những cây cao đến 27-40m. Thân cây là dạng thân gỗ, mọc thẳng, vỏ ngoài thô ráp, đường kính thân lên tới 1.2m",
+      "branch": "string",
+      "leaf": "string",
+      "flower": "Hoa của Sầu Riêng Monthong Thái Lan có 5 cánh, là loại lưỡng tính, mọc thành từng chùm trên cành. Hương thơm của hoa rất mạnh, sực nức. Từ thời điểm nhú hoa đến khi hoa bung nở cánh phải mất một tháng",
+      "fruit": "Trái Sầu Riêng Monthong có hình gần giống quả trứng, nhiều gai to, nhọn và cứng, cuống dài, trọng lượng trung bình khoảng 2-4kg",
+      "seed": "Cơm vàng, hạt lép",
+      "flavor": "Nếu nói về hương vị, sầu riêng monthong được liệt vào hàng “cực phẩm” bởi độ ngon, ngọt, quyến rũ. Quả có phần cơm rất dày và vị ngọt thanh, béo vừa đủ. Không nồng nàn, sầu riêng monthong có mùi thơm nhẹ nhưng đi vào lòng người. Đặc biệt, giống sầu riêng này bảo quản được khá lâu mà hương vị và chất dinh dưỡng gần như được giữa trọn vẹn"
+    },
+    "plantingProcedure": {
+      "climate": "Cây thích hợp nhất khi trồng ở độ cao dưới 1200 m so với mặt nước biển, với độ ẩm không khí đạt từ 75 – 85%, lượng mưa hàng năm trung bình đạt 1500mm/năm. Nhiệt độ thích hợp nhất là từ 18 – 32 độ C.",
+      "plantingArea": "Loại cây này có khả năng thích nghi ở nhiều vùng với điều kiện sinh thái khác nhau. Đặc biệt tại khu vực Đông Nam Bộ và Đồng bằng Sông Cửu Long, cây sinh trưởng và phát triển tốt, cho năng suất và chất lượng cao.",
+      "growingTime": "Monthong Thái Lan là giống sầu riêngcho trái khá sớm sau 4 năm trồng cây nếu được chăm sóc tốt. Người trồng có thể thu hoạch sau 120 đến 135 ngày sau khi đậu quả. Mùa thu hoạch từ tháng 5-6 dương lịch hàng năm.",
+      "lifeSpan": "Tuổi thọ trung bình từ 25 đến 30 năm."
+    },
+    "productivity": "Được đánh giá là một trong những giống tiềm năng đạt được hiệu quả kinh tế cao, cây có thể cho ra 300kg/cây/năm. Nếu trồng thuần thì một ha trồng thuần giống sầu riêng này cũng có thể mang lại doanh thu từ 400 đến 500 triệu.",
+    "price": "Dao động từ 120.000-150.000 đồng/kg.",
+    "imageUrls": [
+      "string"
+    ],
+    "createdAt": "2022-11-28T02:44:48.672Z",
+    "updatedAt": "2022-11-28T02:44:48.672Z"
+  },
+  {
+    "id": "63842dab5d3da3cdaec79c8b",
+    "code": "D200",
+    "name": "Black thorn",
+    "origin": "Malaysia",
+    "characteristics": {
+      "trunk": "Chiều cao trung bình của cây ở khoảng 5 - 6m. Đây là chiều cao tối đa của cây để nó cho hiệu quả tốt nhất",
+      "branch": "string",
+      "leaf": "Lá sầu riêng Black Thorn thon dài, lá dày và các gân xanh nổi lên rõ rệt.",
+      "flower": "Hoa của cây sầu riêng Black thorn D200 là hoa lưỡng tính mọc thành từng chùm. Hoa nở từng chùm từ 3 – 30 trên cành lớn và thân. Từ thời điểm nhú hoa đến khi hoa bung nở cánh phải mất một tháng.",
+      "fruit": "Trái hình tròn có màu xanh xám. Trọng lượng trung bình 1,5 – 2,0 kg/trái với đường màu nâu đỏ dọc theo giữa quả sầu riêng. Vỏ trái chín có màu nâu vàng, thịt trái có pha màu cam đặc trưng của giống sầu riêng Black Thorn D200. Thường chỉ để 10 – 50 trái cho những cây từ 5 – 6 năm tuổi, 50 đến 70 trái cho những cây trên 6 năm tuổi. Gai đen của Sầu riêng Black Thorn thường ngắn, các gai cũng xa nhau và có nhiều khoảng trống giữa các gai. Đặc điểm của gai đen là có cuống mập, dài bằng ngón tay cái. Vì vậy, nhìn từ xa, Sầu riêng Black Thorn không khác gì một quả bí ngô có kích thước nhỏ và thân mập mạp",
+      "seed": " Phần thịt trái cơm dày, màu đỏ cam ít ngọt, mịn ít xơ, có vị hơi đắng nhẹ, hạt lép nhiều và mùi thơm vừa phải.",
+      "flavor": "Sầu riêng Black Thorn có mùi vị không cố định, có thể thay đổi theo độ tuổi của cây. Cụ thể, cây Sầu riêng Black Thorn đã trưởng thành sẽ cho ra quả thơm, ngon, ngọt hơn rất nhiều. Cơm sầu riêng từ những cây trưởng thành cũng có màu đậm hơn và phẳng hơn một chút"
+    },
+    "plantingProcedure": {
+      "climate": "Nhiệt độ: 18 – 32 độ C, độ ẩm không khí từ 75 – 85%. Khi cây ra hoa cần có nhiệt độ không khí từ 20 – 22 độ C, ẩm độ 50 – 60%, lượng mưa trung bình năm từ 1500 – 2000mm, cây cần nhiều ánh sáng",
+      "plantingArea": "Sầu riêng Black Thorn có đặc tính là ưa sáng và là loài cây nhiệt đới phù hợp trồng ở vùng đất Tây Nguyên hay những nơi có đất thịt phù sa, khi đó cây sẽ phát triển và cho năng suất cao.",
+      "growingTime": "Cây sầu riêng Black Thorn D200 cho trái sau khoảng 3 – 5 năm trồng. Cây thường cho thu hoạch vào khoảng tháng 9 – 11 dương lịch hằng năm.",
+      "lifeSpan": "Tuổi thọ trung bình từ 25 đến 30 năm."
+    },
+    "productivity": "Thường chỉ để 10 quả cho những cây từ 5-6 năm tuổi, 50 đến 70 quả cho những cây 20 năm tuổi và tối đa 100 quả nếu cây lớn hơn 20 năm tuổi.",
+    "price": "Dao động từ 800.000-1.200.000 đồng/kg.",
+    "imageUrls": [
+      "string"
+    ],
+    "createdAt": "2022-11-28T03:40:27.323Z",
+    "updatedAt": "2022-11-28T03:40:27.323Z"
+  }
+]
